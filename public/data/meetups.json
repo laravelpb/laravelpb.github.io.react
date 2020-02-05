@@ -1,0 +1,107 @@
+[
+    {
+        
+        "name": "January Chapter 2020",
+        "banner": "january-2020/banner.png",
+        "allevent": "https://allevents.in/ludhiana/laravellive-punjab-january-chapter-meetup-2020/80003990642543",
+        "details": "Pre id tellus in risus pre tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
+        Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.",
+        "link": "./project.html",
+        "speakers": [
+            {
+                "name": "Vikash Pathak",
+                "profile_pic": "",
+                "website": ""
+            },
+            {
+                "name": "Jasmel Singh",
+                "profile_pic": "",
+                "website": ""
+            }
+        ]
+    },
+    {
+        
+        "name": "December Chapter 2019",
+        "banner": "december-2019/banner.jpg",
+        "allevent": "https://allevents.in/ludhiana/laravellive-punjab-january-chapter-meetup-2020/80003990642543",
+        "details": "Pre id tellus in risus pre tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
+        Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.",
+        "link": "./project.html",
+        "speakers": [
+            {
+                "name": "Vikash Pathak",
+                "profile_pic": "",
+                "website": ""
+            },
+            {
+                "name": "Jasmel Singh",
+                "profile_pic": "",
+                "website": ""
+            }
+        ]
+    },
+    {
+        
+        "name": "November Chapter 2019",
+        "banner": "november-2019/banner.jpg",
+        "allevent": "https://allevents.in/ludhiana/laravellive-punjab-january-chapter-meetup-2020/80003990642543",
+        "details": "Pre id tellus in risus pre tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
+        Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.",
+        "link": "./project.html",
+        "speakers": [
+            {
+                "name": "Vikash Pathak",
+                "profile_pic": "",
+                "website": ""
+            },
+            {
+                "name": "Jasmel Singh",
+                "profile_pic": "",
+                "website": ""
+            }
+        ]
+    },
+    {
+        
+        "name": "October Chapter 2019",
+        "banner": "october-2019/banner.jpg",
+        "allevent": "https://allevents.in/ludhiana/laravellive-punjab-january-chapter-meetup-2020/80003990642543",
+        "details": "Pre id tellus in risus pre tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
+        Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.",
+        "link": "./project.html",
+        "speakers": [
+            {
+                "name": "Vikash Pathak",
+                "profile_pic": "",
+                "website": ""
+            },
+            {
+                "name": "Jasmel Singh",
+                "profile_pic": "",
+                "website": ""
+            }
+        ]
+    },
+    {
+        
+        "name": "September Chapter 2019",
+        "banner": "september-2019/banner.jpg",
+        "allevent": "https://allevents.in/ludhiana/laravellive-punjab-january-chapter-meetup-2020/80003990642543",
+        "details": "Pre id tellus in risus pre tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
+        Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.",
+        "link": "./project.html",
+        "speakers": [
+            {
+                "name": "Vikash Pathak",
+                "profile_pic": "",
+                "website": ""
+            },
+            {
+                "name": "Jasmel Singh",
+                "profile_pic": "",
+                "website": ""
+            }
+        ]
+    }
+]
