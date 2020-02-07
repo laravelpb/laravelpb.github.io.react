@@ -2,17 +2,17 @@ import React from 'react'
 
 function Footer() {
     return(
-        <footer className="footer-container white-text-container">
+      <footer className="footer-container white-text-container">
         <div className="container">
           <div className="row">
-            
-            
+      
+          
             <div className="col-xs-12">
-              <h3>Laravel Live Punjab</h3>
-              
+              <h3>{process.env.REACT_APP_WEBSITE_NAME}</h3>
+      
               <div className="row">
                 <div className="col-xs-12 col-sm-7">
-                  {/*  <p><small>Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a></small>
+                  {/* <p><small>Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a></small>
                   </p> */}
                 </div>
                 <div className="col-xs-12 col-sm-5">
