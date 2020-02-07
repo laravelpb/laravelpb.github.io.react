@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta content="description" name="description">
+    <meta name="google" content="notranslate" />
+    <meta content="Mashup templates have been developped by Orson.io team" name="author">
+    
+    <!-- Disable tap highlight on IE -->
+    <meta name="msapplication-tap-highlight" content="no">
+    
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+    <link href="img/mashup-icon.svg" rel="icon">
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -24,7 +29,10 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>%REACT_APP_WEBSITE_NAME%</title>
+    <link href="css/main.550dcf66.css" rel="stylesheet"></head>
+    <link href="css/custom.css" rel="stylesheet">
+
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -39,5 +47,34 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function (event) {
+        navbarFixedTopAnimation();
+      });
+    </script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function (event) {
+        navActivePage();
+        scrollRevelation('.reveal');
+      });
+    </script>
+    
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID 
+      
+      <script>
+        (function (i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date(); a = s.createElement(o),
+          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-XXXXX-X', 'auto');
+        ga('send', 'pageview');
+      </script>
+      
+    --> 
+    <script type="text/javascript" src="js/main.0cf8b554.js"></script>
+
   </body>
 </html>

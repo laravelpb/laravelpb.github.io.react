@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom'
 
 function Header() {
   return (
@@ -20,20 +21,21 @@ function Header() {
             
             <div className="collapse navbar-collapse" id="navbar-collapse">
             <ul className="nav navbar-nav navbar-right">
-                <li><a href="./index.html" title="">Home</a></li>
-                <li><a href="./project.html" title="">Meetups</a></li>
                 <li>
-                <p>
-                    <a href="./components.html" className="btn btn-default navbar-btn" title="">Components</a>
-                </p>
+                    <Link to="/">Home</Link>
                 </li>
-                
+                <li>
+                    <Link to="/meetups">Meetups</Link>
+                </li>
+
+                <li>
+                    <Link to="/latest">Latest News</Link>
+                </li>
             </ul>
             </div> 
         </div>
         </nav>
     </header>
-
   );
 }
 
