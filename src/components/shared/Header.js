@@ -31,13 +31,6 @@ function Header() {
                 <li>
                     <Link to="/latest">Latest News</Link>
                 </li>
-
-                <li>
-                <p>
-                    <a href="./components.html" className="btn btn-default navbar-btn" title="">Components</a>
-                </p>
-                </li>
-                
             </ul>
             </div> 
         </div>
