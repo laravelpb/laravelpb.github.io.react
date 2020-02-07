@@ -1,26 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-import Header from './components/Header';
-import Banner from './components/Banner';
-import About from './components/About';
-import Meetups from './components/Meetups';
-import Volunteers from './components/Volunteers'; 
-import Feedback from './components/Feedback';
-import Footer from './components/Footer';
+import './App.css';
+import Router from './Route'
+import {BrowserRouter} from 'react-router-dom'
+
+import Header from './components/shared/Header';
+import Banner from './components/dashboard/Banner';
+
+import Feedback from './components/shared/Feedback';
+import Connect from './components/shared/Connect';
+import Footer from './components/shared/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Banner />
-      <About />
-      <Meetups />
-      <Volunteers />
-      <Feedback />
-      <Footer />
-    </div>
+    <BrowserRouter>
+      <div className="App">
+          <Header />
+          <Banner />
+
+          <Router />
+
+          <Feedback />
+          <Connect />
+          <Footer />
+      </div>
+    </BrowserRouter>
   );
 }
 
