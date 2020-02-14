@@ -28,9 +28,9 @@ function Header() {
                     <Link to="/meetups">Meetups</Link>
                 </li>
 
-                <li>
+                {/* <li>
                     <Link to="/latest">Latest News</Link>
-                </li>
+                </li> */}
             </ul>
             </div> 
         </div>

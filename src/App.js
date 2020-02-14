@@ -21,7 +21,7 @@ function App() {
           <Router />
 
           <Feedback />
-          <Connect />
+         {/*  <Connect /> */}
           <Footer />
       </div>
     </BrowserRouter>

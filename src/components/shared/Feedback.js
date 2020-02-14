@@ -7,22 +7,30 @@ function Feedback() {
                 <div className="row section-container-spacer">
                 <div className="col-xs-12 col-md-12">
                     <h2 className="text-center">Feedbacks</h2>
-                    <p>Praesent at feugiat est, at faucibus ipsum. Aenean condimentum mauris vel malesuada pulvinar. <br />Vestibulum sit amet hendrerit leo, quis vehicula mi.</p>
+                    
+                    <p>
+                        Quite well organized for a first session. Appreciate that they valued time.
+                    Speakers really knew their topics well.
+                        The quiz was super fun! <br/>Overall a very good experience. 
+                        I never expected anything like this in Ludhiana. 
+                        Looking forward to future meets.
+                        <p className='text-right'><b>~ Rahul Huilgol(Attendees)</b></p>
+                    </p>
                 </div>  
                 </div>
-                <div className="row">
-                <div className="col-xs-12 col-md-4">
-                    <img src="img/logo-01.png" alt="" className="img-responsive reveal-content image-center" />
+                {/* <div className="row">
+                    <div className="col-xs-12 col-md-4">
+                        <img src="img/logo-01.png" alt="" className="img-responsive reveal-content image-center" />
+                        
+                    </div>
                     
-                </div>
-                
-                <div className="col-xs-12 col-md-4">
-                    <img src="img/logo-02.png" alt="" className="img-responsive reveal-content image-center" />
-                </div>
-                <div className="col-xs-12 col-md-4">
-                    <img src="img/logo-03.png" alt="" className="img-responsive reveal-content image-center" />
-                </div>
-                </div>
+                    <div className="col-xs-12 col-md-4">
+                        <img src="img/logo-02.png" alt="" className="img-responsive reveal-content image-center" />
+                    </div>
+                    <div className="col-xs-12 col-md-4">
+                        <img src="img/logo-03.png" alt="" className="img-responsive reveal-content image-center" />
+                    </div>
+                </div> */}
             </div>
         </div>
     );
