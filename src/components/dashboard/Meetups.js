@@ -16,7 +16,7 @@ function Meetups() {
                   <div className="carousel-caption card-shadow reveal">
                     
                     <h3>January Chapter 2020</h3>
-                    <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    {/* <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                       <i className="fa fa-chevron-left" aria-hidden="true"></i>
                       <span className="sr-only">Previous</span>
                     </a>
@@ -35,7 +35,7 @@ function Meetups() {
                     </p>
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 
@@ -44,7 +44,7 @@ function Meetups() {
                   <div className="carousel-caption card-shadow reveal">
                     
                     <h3>December Chapter 2019</h3>
-                    <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    {/* <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                       <i className="fa fa-chevron-left" aria-hidden="true"></i>
                       <span className="sr-only">Previous</span>
                     </a>
@@ -63,7 +63,7 @@ function Meetups() {
                     </p>
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 
@@ -72,7 +72,7 @@ function Meetups() {
                   <div className="carousel-caption card-shadow reveal">
                     
                     <h3>November Chapter 2019</h3>
-                    <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    {/* <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                       <i className="fa fa-chevron-left" aria-hidden="true"></i>
                       <span className="sr-only">Previous</span>
                     </a>
@@ -91,7 +91,7 @@ function Meetups() {
                     </p>
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 
@@ -100,7 +100,7 @@ function Meetups() {
                   <div className="carousel-caption card-shadow reveal">
                     
                     <h3>October Chapter 2019</h3>
-                    <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    {/* <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                       <i className="fa fa-chevron-left" aria-hidden="true"></i>
                       <span className="sr-only">Previous</span>
                     </a>
@@ -119,7 +119,7 @@ function Meetups() {
                     </p>
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 
@@ -128,7 +128,7 @@ function Meetups() {
                   <div className="carousel-caption card-shadow reveal">
                     
                     <h3>September Chapter 2019</h3>
-                    <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    {/* <a className="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
                       <i className="fa fa-chevron-left" aria-hidden="true"></i>
                       <span className="sr-only">Previous</span>
                     </a>
@@ -147,7 +147,7 @@ function Meetups() {
                     </p>
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
-                    </a>
+                    </a> */}
                   </div>
                 </div>
 

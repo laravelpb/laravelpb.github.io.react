@@ -7,9 +7,9 @@ function Banner() {
         <div className="row">
             <div className="col-xs-12">
             <h1>LARAVEL LIVE PUNJAB</h1>
-            <p>A community for Laravel Beginners, Experts And Artisans.</p>
+            <p>A Community of Laravel Artisans.</p>
             <br />
-            <a href="./project.html" className="btn btn-default btn-lg" title="">Join Us</a>
+            <a href="https://twitter.com/LaravelPB" className="btn btn-default btn-lg" title="">Join Us</a>
             </div>
         </div>
         </div>
