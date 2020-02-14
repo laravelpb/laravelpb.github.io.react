@@ -13,7 +13,7 @@ function Volunteers() {
         </div>
         <div className="row">
           <div className="col-xs-12 col-md-4">
-            <img src="img/Vikash.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Vikash.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Vikash Pathak</h3>
             {/* <h4>UX designer</h4>
             <p>Sed elementum vehicula nisl, a egestas velit rhoncus nec.Cras vel sapien tincidunt, lacinia risus vel, imperdiet neque.</p> */}
@@ -31,7 +31,7 @@ function Volunteers() {
           </div>
           
           <div className="col-xs-12 col-md-4">
-            <img src="img/Ankit.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Ankit.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Ankit Kumar</h3>
             {/* <h4>UI designer</h4>
             <p>Praesent at feugiat est, at faucibus ipsum. Aenean condimentum mauris vel malesuadav pulvinar. Vestibulum sit amet hendrerit leo, quis vehicula mi.</p>
@@ -48,7 +48,7 @@ function Volunteers() {
             </p>
           </div>
           <div className="col-xs-12 col-md-4">
-            <img src="img/Jaswinder.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Jaswinder.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Jaswinder Singh</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>
@@ -63,13 +63,15 @@ function Volunteers() {
                 <i className="fa fa-linkedin" aria-hidden="true"></i>
               </a>
             </p>
+
+            <br/><br/>
           </div>
 
           </div>
           <div className="row">
 
           <div className="col-xs-12 col-md-4">
-            <img src="img/Lakhwinder.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Lakhwinder.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Lakhwinder Singh</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>
@@ -87,7 +89,7 @@ function Volunteers() {
           </div>
 
           <div className="col-xs-12 col-md-4">
-            <img src="img/Gurpreet.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Gurpreet.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Gurpreet Singh</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>
@@ -105,7 +107,7 @@ function Volunteers() {
           </div>
 
           <div className="col-xs-12 col-md-4">
-            <img src="img/Nitin.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Nitin.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Nitin Chamola</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>
@@ -120,12 +122,12 @@ function Volunteers() {
                 <i className="fa fa-linkedin" aria-hidden="true"></i>
               </a>
             </p>
+          <br/><br/>
           </div>
-
           </div>
           <div className="row">
           <div className="col-xs-12 col-md-4">
-            <img src="img/Surjit.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Surjit.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Surjit Singh</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>
@@ -143,7 +145,7 @@ function Volunteers() {
           </div>
 
           <div className="col-xs-12 col-md-4">
-            <img src="img/Ravi.jpg" alt="" className="reveal img-responsive reveal-content image-center" />
+            <img src="img/Ravi.jpg" alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
             <h3>Ravi Heer</h3>
            {/*  <h4>Developer</h4>
             <p>Busce rutrum nisi non dui placerat sodales. Vivamus feugiat rutrum malesuada. Nulla volutpat sapien ac gravida varius</p>

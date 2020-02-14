@@ -2,3 +2,7 @@
  .connect-back {
     background-image: url('../img/img-01.jpg')
  }
+
+ .profile-pic{
+    max-width: 250px;
+ }
