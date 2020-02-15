@@ -23,9 +23,10 @@
    color: #fd7778;
 }
 
-.navbar-default, .btn-primary:hover{
+.navbar-default, .btn-primary:hover, .social-round-icon:hover{
    background-color: #fd7778d6;
    border-color: #fd7778d6;
+   color:#fff;
 }
 
 .navbar-brand>.navbar-logo-img{
@@ -36,4 +37,9 @@
    line-height: 25px;
    padding:27.5px 5px;
    color:#fff;
+}
+
+.clear-both{
+   width: 100%;
+   clear: both;
 }

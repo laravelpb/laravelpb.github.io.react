@@ -1,6 +1,6 @@
 import React from 'react';
-import meetups from '../../configs/data/meetups.json';
 import CarouselNavigator from '../shared/CarouselNavigator';
+import meetups from '../../configs/data/meetups.json';
 
 function Meetups() {
   
