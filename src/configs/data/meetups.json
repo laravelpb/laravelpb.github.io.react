@@ -1,0 +1,142 @@
+{
+    "meta": {
+      "total": 6
+    },
+    "data": [
+      {
+        "name": "January Chapter Meetup",
+        "summary": "---",
+        "date": "02 FEB, 2020",
+        "photo": "img/meetups/january-2020/banner.png",
+        "url": "https://www.google.com/",
+        "topics": [
+          {
+            "title": "Laravel Airlock - Authentication system for SPAs and simple APIs",
+            "summary": "Laravel Airlock provides a featherweight authentication system for SPAs and simple APIs.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/16",
+            "speaker": "Vikash Pathak",
+            "profile_url": "http://google.com"
+          },
+          {
+            "title": "ABC of API Development With Laravel",
+            "summary": "Basic to advanced.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/15",
+            "speaker": "Jasmel Singh",
+            "profile_url": "http://google.com"
+          }
+        ]
+      },
+      {
+        "name": "December Chapter Meetup",
+        "summary": "---",
+        "date": "22 DEC, 2019",
+        "photo": "img/meetups/december-2019/banner.jpg",
+        "url": "https://www.google.com/",
+        "topics": [
+          {
+            "title": "Multi Tenant Application Architectures",
+            "summary": "Different Architectures available for creating multi-tenant application. How Laravel supports these architectures?",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/10",
+            "speaker": "Ankit Kumar",
+            "profile_url": "http://google.com"
+          },
+          {
+            "title": "Multi Tenant Application Architectures - Practical Example with Laravel",
+            "summary": "Practical Example - How you can setup multi-tenant application with single / multi database.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/pathak-vikash/multitenant-app",
+            "speaker": "Vikash Pathak",
+            "profile_url": "http://google.com"
+          }
+        ]
+      },
+      {
+        "name": "November Chapter Meetup",
+        "summary": "---",
+        "date": "24 NOV, 2019",
+        "photo": "img/meetups/november-2019/banner.jpg",
+        "url": "https://www.google.com/",
+        "topics": [
+          {
+            "title": "Code Smartly: Tips, Tricks & Good Practices in Laravel",
+            "summary": "Everyone could code and achieve the functionality in their efficient way but it's always have a concern the code you have written is in effective way. Talk consists tips, tricks and good practices in Laravel that can decrease your coding hours in effective ways.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/12",
+            "speaker": "Vikash Pathak",
+            "profile_url": "http://google.com"
+          },
+          {
+            "title": "OAuth2 with Laravel Passport",
+            "summary": "OAuth2 : What is it? Its related terminology. How is it implemented in Laravel? Creating different Clients in Passport and their Authentication",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/5",
+            "speaker": "Harpreet Singh",
+            "profile_url": "http://google.com"
+          }
+        ]
+      },
+      {
+        "name": "October Chapter Meetup",
+        "summary": "---",
+        "date": "03 NOV, 2019",
+        "photo": "img/meetups/october-2019/banner.jpg",
+        "url": "https://www.google.com/",
+        "topics": [
+          {
+            "title": "Let's debug with Laravel Telescope",
+            "summary": "Laravel Telescope is an elegant debug assistant for the Laravel framework. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps and more. Telescope makes a wonderful companion to your local Laravel development environment.",
+            "description": "Laravel Telescope is an elegant debug assistant for the Laravel framework. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps and more. Telescope makes a wonderful companion to your local Laravel development environment.",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/1",
+            "speaker": "Vikash Pathak",
+            "profile_url": "http://google.com"
+          },
+          {
+            "title": "Uses of Observers in Laravel",
+            "summary": "Observers are used to group event listeners for a model. Observers classes method names refer to the Eloquent event you want to listen for. These methods receive the model as their only argument. Laravel does not include a default directory for observers.",
+            "description": "Observers are used to group event listeners for a model. Observers classes method names refer to the Eloquent event you want to listen for. These methods receive the model as their only argument. Laravel does not include a default directory for observers.",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/7",
+            "speaker": "Lakhwinder Singh",
+            "profile_url": "http://google.com"
+          }
+        ]
+      },
+      {
+        "name": "September Chapter Meetup",
+        "summary": "---",
+        "date": "29 SEP, 2019",
+        "photo": "img/meetups/september-2019/banner.jpg",
+        "url": "https://www.google.com/",
+        "topics": [
+          {
+            "title": "Redis - Data Structure Server",
+            "summary": "Redis is an open source, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, and sorted sets. Before using Redis with Laravel, you will need to install the predis/predis package (~1.0) via Composer.",
+            "description": "Redis is an open source, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, and sorted sets. Before using Redis with Laravel, you will need to install the predis/predis package (~1.0) via Composer.",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/3",
+            "speaker": "Jaswinder Singh",
+            "profile_url": "http://google.com"
+          },
+          {
+            "title": "Pivot Tables - Techniques and Readability",
+            "summary": "Uncover hidden pivot related features which generally gets ignored. Keep code readable - Intent driven naming for pivot tables.",
+            "description": "Uncover hidden pivot related features which generally gets ignored. Keep code readable - Intent driven naming for pivot tables.",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/2",
+            "speaker": "Ankit Kumar",
+            "profile_url": "http://google.com"
+          }
+        ]
+      }
+    ]
+}
