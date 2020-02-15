@@ -14,8 +14,7 @@ function Header() {
                 <span className="icon-bar"></span>
             </button>
             <a className="navbar-brand" href="./index.html" title="">
-                <img src="img/mashup-icon.svg" className="navbar-logo-img" alt="" />
-                Laravel Live Punjab
+                <img src="img/logo-icon.png" className="navbar-logo-img" alt="Laravel Punjab" />
             </a>
             </div>
             

@@ -1,8 +1,28 @@
 
- .connect-back {
-    background-image: url('../img/img-01.jpg')
- }
+.background-image-container{
+   background-image: url('../img/banner.jpg');
+   background-size: initial;
+}
+.connect-back {
+   background-image: url('../img/img-01.jpg')
+}
 
- .profile-pic{
-    max-width: 250px;
- }
+.profile-pic{
+   max-width: 250px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+   color: #fd7778;
+}
+
+.h2:after, h2:after{
+   color: #fd7778;
+}
+
+.navbar-default{
+   background-color: #fd7778d6;
+}
+
+.navbar-brand>.navbar-logo-img{
+   margin-top:-20px;
+}
