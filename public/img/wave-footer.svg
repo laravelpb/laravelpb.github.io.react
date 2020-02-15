@@ -14,7 +14,7 @@
         </radialGradient>
     </defs>
     <g id="Ressource" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="wave_footer" fill="url(#radialGradient-1)">
+        <g id="wave_footer" fill="#fd7778">
             <path d="M0,0 L1294,3.28701505e-11 L1294,216 C1078.47689,206.049898 862.975994,201.074847 647.49731,201.074847 C432.018625,201.074847 216.186189,206.049898 6.60793035e-14,216 L0,0 Z" id="Image-Hero-Copy" transform="translate(647.000000, 108.000000) scale(1, -1) translate(-647.000000, -108.000000) "></path>
         </g>
     </g>

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Feedback() {
     return(
-        <div className="section-container">
+        <div className="section-container section-gray">
             <div className="container text-center">
                 <div className="row section-container-spacer">
                 <div className="col-xs-12 col-md-12">

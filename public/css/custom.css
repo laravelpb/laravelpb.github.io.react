@@ -1,8 +1,52 @@
 
- .connect-back {
-    background-image: url('../img/img-01.jpg')
- }
+.background-image-container{
+   background-image: url('../img/banner.jpg');
+   background-size: initial;
+}
+.connect-back {
+   background-image: url('../img/img-01.jpg')
+}
 
- .profile-pic{
-    max-width: 250px;
- }
+.profile-pic{
+   max-width: 250px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, a, a:hover {
+   color: #fd7778;
+}
+
+.btn-primary{
+   border-color: #fd7778;
+}
+
+.carousel-control, .h2:after, h2:after, .btn-primary, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover{
+   color: #fd7778;
+}
+
+.navbar-default, .btn-primary:hover, .social-round-icon:hover{
+   background-color: #fd7778d6;
+   border-color: #fd7778d6;
+   color:#fff;
+}
+
+.navbar-brand>.navbar-logo-img{
+   margin-top:-20px;
+}
+
+.top-menu-box{
+   line-height: 25px;
+   padding:27.5px 5px;
+   color:#fff;
+}
+
+.clear-both{
+   width: 100%;
+   clear: both;
+}
+
+.section-gray{
+   background-color: #fafafa;
+}
+.social-round-icon {
+   margin-right: 5px;
+}
