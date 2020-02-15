@@ -20,12 +20,12 @@ function Header() {
             
             <div className="collapse navbar-collapse" id="navbar-collapse">
                 <ul className="nav navbar-nav navbar-right">
-                    <li>
+                    {/* <li>
                         <Link to="/">Home</Link>
                     </li>
                     <li>
                         <Link to="/meetups">Meetups</Link>
-                    </li>
+                    </li> */}
 
                     {/* <li>
                         <Link to="/latest">Latest News</Link>
