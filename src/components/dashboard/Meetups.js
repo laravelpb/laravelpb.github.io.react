@@ -7,7 +7,8 @@ function Meetups() {
       <div className="container">
         <div className="row">      
           <div className="col-xs-12"> 
-            <h2 className="text-center">Meetups</h2>           
+            <h2 className="text-center">Meetups</h2>
+            <br/>       
             <div id="carousel-example-generic" className="carousel carousel-fade slide" data-ride="carousel">
               
               <div className="carousel-inner" role="listbox">
@@ -25,15 +26,68 @@ function Meetups() {
                       <i className="fa fa-chevron-right" aria-hidden="true"></i>
                       <span className="sr-only">Next</span>
                     </a>
-                    <p>
-                      Pre id tellus in risus pre
-                      tium imperdiet eu lobortis dolor. Sed pellentesque, urna ac viverra lacinia, erat mauris venenatis purus, mollis egestas urna purus ac ex.
-                      Aenean nunc sem, lobortis at elit non, lobortis laoreet nibh. Maecenas at mi ipsum.
-                    </p>
                     
-                    <p>
-                      Quisque tempor, ligula pharetra luctus elementum, arcu nisl suscipit ante, pharetra commodo dui est et enim. Sed eu vestibulum elit. Donec ut libero non.
-                    </p>
+                    <div>
+                      <br/>
+                      <h5>Laravel Airlock - Authentication system for SPAs and simple APIs</h5>
+                      <div>
+                        Laravel Airlock provides a featherweight authentication system for SPAs and simple APIs. <br/>
+                        <pre>
+                          <b>Topics covered:- </b> <br />
+                          <code>
+
+                          - Why we need it? <br/>
+
+                          - Installation &amp; Configuration <br/>
+
+                          - Authenticating Simple APIs <br/>
+
+                          - Authenticating SPAs <br/>
+
+                          - Authentication with Mobile Device <br/>
+                          </code>
+                        </pre>
+                      </div>
+                          
+                      <h4 className="text-right">~ Vikash Pathak</h4>
+                    </div>
+
+                    <div>
+                      <br/>
+                      <h5>ABC of API Development With Laravel</h5>
+                      <pre>
+                          <b>Topics covered:- </b> <br />
+                          <code>
+
+                          - CRUD Operations <br/>
+
+                          - Response Format <br/>
+
+                          - Authentication <br/>
+
+                          - Authenticating Simple APIs <br/>
+
+                          - Differtnt kind of HTTP Verbs <br/>
+
+                          - Authentication with Mobile Device <br/>
+                          </code>
+                      </pre>
+
+                      <p>
+                        Brief description about the content to be covered
+
+                        Authentication
+                        Response Resources
+                        Resource Routes
+                        All HTTP Verbs
+
+                        Brief description about the content to be covered
+                      </p>
+                          
+                      <h4 className="text-right">~ Jasmel Singh</h4>
+                    </div>
+
+
                     <a href="./project.html" className="btn btn-primary" title="">
                       Details
                     </a>

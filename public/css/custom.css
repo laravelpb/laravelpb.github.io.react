@@ -26,3 +26,9 @@
 .navbar-brand>.navbar-logo-img{
    margin-top:-20px;
 }
+
+.top-menu-box{
+   line-height: 25px;
+   padding:27.5px 5px;
+   color:#fff;
+}
