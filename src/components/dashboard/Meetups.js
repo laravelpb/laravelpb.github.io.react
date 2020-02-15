@@ -5,7 +5,7 @@ import meetups from '../../configs/data/meetups.json';
 function Meetups() {
   
   return (
-  <div className="section-container">
+  <div className="section-container section-gray">
     <div className="container">
       <div className="row">      
         <div className="col-xs-12"> 

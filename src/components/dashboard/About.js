@@ -15,7 +15,6 @@ function About() {
                 Anyone who is contributing to Open Source, building APIs and into development using Laravel could expand their competence and skills and help fellow developers through this platform where knowledge sharing happens with electrifying events.
                 <br /><br />
                 We believe this as an opportunity to meet new people from the same field as it helps each other grow as Laravel developers. Eminently, sharing a platform where new perspectives regarding technology and software can be exchanged.
-                <br/>
                 </p>
             </div>
             </div>
