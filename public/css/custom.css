@@ -12,20 +12,26 @@
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, a, a:hover {
-   color: #fd7778;
+   color: #d43839;
 }
 
 .btn-primary{
-   border-color: #fd7778;
+   border-color: #d43839;
 }
 
 .carousel-control, .h2:after, h2:after, .btn-primary, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover{
-   color: #fd7778;
+   color: #d43839;
 }
 
-.navbar-default, .btn-primary:hover, .social-round-icon:hover{
-   background-color: #fd7778d6;
-   border-color: #fd7778d6;
+.navbar-default{
+   background-color: #fe697de0;
+   border-color: #fe697de0;
+   color:#fff;
+}
+
+.btn-primary:hover, .social-round-icon:hover{
+   background-color: #d43839;
+   border-color: #d43839;
    color:#fff;
 }
 
