@@ -17,7 +17,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/16",
             "speaker": "Vikash Pathak",
-            "profile_url": "http://google.com"
+            "profile_url": "https://twitter.com/pathak-vikash"
           },
           {
             "title": "ABC of API Development With Laravel",
@@ -26,7 +26,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/15",
             "speaker": "Jasmel Singh",
-            "profile_url": "http://google.com"
+            "profile_url": "#"
           }
         ]
       },
@@ -44,7 +44,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/10",
             "speaker": "Ankit Kumar",
-            "profile_url": "http://google.com"
+            "profile_url": "#"
           },
           {
             "title": "Multi Tenant Application Architectures - Practical Example with Laravel",
@@ -53,7 +53,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/pathak-vikash/multitenant-app",
             "speaker": "Vikash Pathak",
-            "profile_url": "http://google.com"
+            "profile_url": "https://twitter.com/pathak-vikash"
           }
         ]
       },
@@ -71,7 +71,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/12",
             "speaker": "Vikash Pathak",
-            "profile_url": "http://google.com"
+            "profile_url": "https://twitter.com/pathak-vikash"
           },
           {
             "title": "OAuth2 with Laravel Passport",
@@ -80,7 +80,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/5",
             "speaker": "Harpreet Singh",
-            "profile_url": "http://google.com"
+            "profile_url": "#"
           }
         ]
       },
@@ -98,7 +98,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/1",
             "speaker": "Vikash Pathak",
-            "profile_url": "http://google.com"
+            "profile_url": "https://twitter.com/pathak-vikash"
           },
           {
             "title": "Uses of Observers in Laravel",
@@ -107,7 +107,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/7",
             "speaker": "Lakhwinder Singh",
-            "profile_url": "http://google.com"
+            "profile_url": "https://twitter.com/luckys383"
           }
         ]
       },
@@ -125,7 +125,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/3",
             "speaker": "Jaswinder Singh",
-            "profile_url": "http://google.com"
+            "profile_url": "#"
           },
           {
             "title": "Pivot Tables - Techniques and Readability",
@@ -134,7 +134,7 @@
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/2",
             "speaker": "Ankit Kumar",
-            "profile_url": "http://google.com"
+            "profile_url": "#"
           }
         ]
       }
