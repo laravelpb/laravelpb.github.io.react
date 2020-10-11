@@ -1,3 +1,3 @@
-## Available Scripts
+## Issues
 
 https://github.com/laravelpb/laravelpb.github.io/issues
