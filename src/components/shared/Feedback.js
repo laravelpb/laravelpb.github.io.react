@@ -9,8 +9,8 @@ function Feedback() {
                     <h2 className="text-center">Feedbacks</h2>
                     
                     <p>
-                        Quite well organized for a first session. Appreciate that they valued time.
-                    Speakers really knew their topics well.
+                        Quite well organized for a first session. Appreciate that they valued time. 
+                        Speakers really knew their topics well.
                         The quiz was super fun! <br/>Overall a very good experience. 
                         I never expected anything like this in Ludhiana. 
                         Looking forward to future meets.

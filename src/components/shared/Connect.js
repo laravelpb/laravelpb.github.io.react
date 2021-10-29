@@ -2,7 +2,7 @@ import React from 'react'
 
 function Connect() {
     return(
-        <div className="section-container contact-container">
+       {/* <div className="section-container contact-container">
             <div className="container">
                 <div className="row">
                 <div className="col-xs-12 col-md-12">
@@ -52,7 +52,7 @@ function Connect() {
                     </div>  
                 </div>
                 </div>
-            </div>
+    </div> */}
     );
 }
 
