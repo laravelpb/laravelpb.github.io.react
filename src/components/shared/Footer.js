@@ -12,8 +12,7 @@ function Footer() {
       
               <div className="row">
                 <div className="col-xs-12 col-sm-7">
-                  {/* <p><small>Website created with <a href="http://www.mashup-template.com/" title="Create website with free html template">Mashup Template</a>/<a href="https://www.unsplash.com/" title="Beautiful Free Images">Unsplash</a></small>
-                  </p> */}
+                  
                 </div>
                 <div className="col-xs-12 col-sm-5">
                   <p className="text-right">
