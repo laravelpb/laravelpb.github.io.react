@@ -13,14 +13,12 @@ function Volunteers() {
            </div>  
         </div>
         <div className="row">
-          {volunteers.data.map((volunteer, ii) => 
+          {/*volunteers.data.map((volunteer, ii) => 
             <>
               {ii % 3 == 0 && (<div className="clear-both">&nbsp;</div>)}
               <div className="col-xs-12 col-md-4">
                 <img src={volunteer.photo} alt="" className="profile-pic reveal img-responsive reveal-content image-center" />
                 <h3>{volunteer.name}</h3>
-                {/* <h4>UX designer</h4>
-                <p>Sed elementum vehicula nisl, a egestas velit rhoncus nec.Cras vel sapien tincidunt, lacinia risus vel, imperdiet neque.</p> */}
                 <p>
                   {volunteer.social.map((social) => 
                   
@@ -31,7 +29,7 @@ function Volunteers() {
                 </p>
               </div>
             </>
-          )}
+          )*/}
         </div>
 
       </div>
