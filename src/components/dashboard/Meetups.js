@@ -17,7 +17,7 @@ function Meetups() {
               
               {
                 meetups.data.map((meetup, idx) => 
-                <div key={idx} className={`item ${idx == 0 ? 'active': ''}`}>
+                <div key={idx} className={`item ${idx === 0 ? 'active': ''}`}>
                   <img className="img-responsive" src={meetup.photo} alt={meetup.name} />
                   <div className="carousel-caption card-shadow reveal">
                     
@@ -31,10 +31,10 @@ function Meetups() {
                       
                       <div>
                         <br/>
-                        <h5><a href={topic.url} target="_blank">{topic.title}</a></h5>
+                        <h5><a href={topic.url} rel="noopener noreferrer" target="_blank">{topic.title}</a></h5>
                         <div>{topic.summary} <br/></div>
                         
-                        <h4 className="text-right">~ <a href={topic.profile_url} target="_blank">{topic.speaker}</a></h4>
+                        <h4 className="text-right">~ <a href={topic.profile_url} rel="noopener noreferrer" target="_blank">{topic.speaker}</a></h4>
                       </div>
                       )}  
                       

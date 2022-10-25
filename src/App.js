@@ -8,7 +8,6 @@ import Header from './components/shared/Header';
 import Banner from './components/dashboard/Banner';
 
 import Feedback from './components/shared/Feedback';
-import Connect from './components/shared/Connect';
 import Footer from './components/shared/Footer';
 
 function App() {
