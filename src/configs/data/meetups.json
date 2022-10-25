@@ -1,6 +1,6 @@
 {
     "meta": {
-      "total": 7
+      "total": 8
     },
     "data": [
       {
@@ -39,6 +39,24 @@
         "topics": [
           {
             "title": "[Cancelled]"
+          }
+        ]
+      },
+      {
+        "name": "Laracon Online 2020 - Viewing Party",
+        "summary": "---",
+        "date": "Feb 27, 2020",
+        "photo": "img/meetups/feb-2020/banner.jpg",
+        "url": "#",
+        "topics": [
+          {
+            "title": "Laracon Online 2020 - Viewing Party",
+            "summary": "The main goal is to make conference approachable to all the laravel passionate artisans. And create a knowledgeful environment where you can discuss the topics with dozen of laravel enthusiasts.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/#",
+            "speaker": "Laracon Online",
+            "profile_url": "https://laracon.net/"
           }
         ]
       },
