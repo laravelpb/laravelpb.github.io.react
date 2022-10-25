@@ -4,6 +4,33 @@
     },
     "data": [
       {
+        "name": "September Chapter Meetup",
+        "summary": "---",
+        "date": "17th SEP, 2022",
+        "photo": "img/meetups/september-2022/banner.jpg",
+        "url": "#",
+        "topics": [
+          {
+            "title": "Use React Components in Laravel Blade",
+            "summary": "How to create/use React Components in Laravel Blade? and Use cases and best practices for React Components in Laravel Blade.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/17",
+            "speaker": "Ravi Heer",
+            "profile_url": "https://twitter.com/raviheer2294"
+          },
+          {
+            "title": "Bootstraping Ecommerce Application in Laravel",
+            "summary": "Bootstraping Ecommerce Application in Laravel.",
+            "description": "some descriptions going here",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://github.com/laravelpb/topics/issues/20",
+            "speaker": "Shimant Verma & Saurabh Dutta",
+            "profile_url": "#"
+          }
+        ]
+      },
+      {
         "name": "January Chapter Meetup",
         "summary": "---",
         "date": "02 FEB, 2020",
