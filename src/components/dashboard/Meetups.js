@@ -9,7 +9,7 @@ function Meetups() {
     <div className="container">
       <div className="row">      
         <div className="col-xs-12"> 
-          <h2 className="text-center">Meetups</h2>
+          <h2 className="text-center">A glimps of our recent Meetups</h2>
           <br/>       
           <div id="carousel-example-generic" className="carousel carousel-fade slide" data-ride="carousel">
             
