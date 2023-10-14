@@ -7,7 +7,7 @@ function Volunteers() {
       <div className="container text-center">
         <div className="row section-container-spacer">
           <div className="col-xs-12 col-md-12">
-            <h2>Volunteers</h2>
+            <h2>Our star Volunteers</h2>
             {/* <p>Praesent at feugiat est, at faucibus ipsum. Aenean condimentum mauris vel malesuada pulvinar. <br />Vestibulum sit amet hendrerit leo, quis vehicula mi.</p>
            */}
            </div>  
