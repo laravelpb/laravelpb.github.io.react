@@ -150,7 +150,7 @@
         "topics": [
           {
             "title": "Let's debug with Laravel Telescope",
-            "summary": "Laravel Telescope is an elegant debug assistant for the Laravel framework. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps and more. Telescope makes a wonderful companion to your local Laravel development environment.",
+            "summary": "Laravel Telescope serves as a sophisticated debugging companion for the Laravel framework. It offers valuable insights into various aspects of your application, including incoming requests, exceptions, log entries, database queries, queued jobs, email activities, notifications, cache operations, scheduled tasks, variable dumps, and beyond. Telescope proves to be an excellent addition to your local Laravel development environment, enhancing your debugging and troubleshooting capabilities.",
             "description": "Laravel Telescope is an elegant debug assistant for the Laravel framework. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps and more. Telescope makes a wonderful companion to your local Laravel development environment.",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/1",
@@ -159,7 +159,7 @@
           },
           {
             "title": "Uses of Observers in Laravel",
-            "summary": "Observers are used to group event listeners for a model. Observers classes method names refer to the Eloquent event you want to listen for. These methods receive the model as their only argument. Laravel does not include a default directory for observers.",
+            "summary": "Observers serve as a way to organize event listeners for a model in Laravel. In these observer classes, the method names correspond to the Eloquent events you wish to monitor. These methods receive the model itself as their sole argument. It's important to note that Laravel does not provide a predefined directory for observers, giving you flexibility in where to place them in your application.",
             "description": "Observers are used to group event listeners for a model. Observers classes method names refer to the Eloquent event you want to listen for. These methods receive the model as their only argument. Laravel does not include a default directory for observers.",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
             "url": "https://github.com/laravelpb/topics/issues/7",
